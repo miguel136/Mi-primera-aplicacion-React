@@ -10,7 +10,7 @@ class App extends Component {
         <header className="App-header">
           <img src={novios} className="App-logo" alt="logo" />
           <p>
-            Te amo bonita, esta va por ti... :P /* En esta línea de codigo le declaro todo mi amor a mi novia :) */
+            Tengo a la novia más hermosa de todas y la amo con todo mi corazón...
            </p>
         </header>
       </div>
